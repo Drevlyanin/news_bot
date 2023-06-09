@@ -4,7 +4,7 @@ import aiogram.utils.markdown as md
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import ParseMode
 from aiogram.utils import executor
-import asyncio
+
 
 # Set up your list of news sources here
 sources = [
